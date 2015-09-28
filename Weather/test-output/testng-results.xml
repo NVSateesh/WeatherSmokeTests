@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="14" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="205774" started-at="2015-08-12T19:56:39Z" finished-at="2015-08-12T20:00:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="205774" started-at="2015-08-12T19:56:39Z" finished-at="2015-08-12T20:00:04Z">
+      <class name="weather.NewTest">
+        <test-method status="PASS" signature="CharlesStart()[pri:0, instance:weather.NewTest@6f79caec]" name="CharlesStart" is-config="true" duration-ms="34791" started-at="2015-08-13T01:26:39Z" finished-at="2015-08-13T01:27:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CharlesStart -->
+        <test-method status="PASS" signature="search_location()[pri:0, instance:weather.NewTest@6f79caec]" name="search_location" duration-ms="13566" started-at="2015-08-13T01:27:14Z" finished-at="2015-08-13T01:27:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_location -->
+        <test-method status="PASS" signature="Sequencetab()[pri:0, instance:weather.NewTest@6f79caec]" name="Sequencetab" duration-ms="5288" started-at="2015-08-13T01:27:27Z" finished-at="2015-08-13T01:27:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sequencetab -->
+        <test-method status="PASS" signature="search_api()[pri:0, instance:weather.NewTest@6f79caec]" name="search_api" duration-ms="68454" started-at="2015-08-13T01:27:32Z" finished-at="2015-08-13T01:28:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_api -->
+        <test-method status="PASS" signature="SaveFile()[pri:0, instance:weather.NewTest@6f79caec]" name="SaveFile" duration-ms="12739" started-at="2015-08-13T01:28:41Z" finished-at="2015-08-13T01:28:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SaveFile -->
+        <test-method status="PASS" signature="Validate_ord()[pri:0, instance:weather.NewTest@6f79caec]" name="Validate_ord" duration-ms="670" started-at="2015-08-13T01:28:54Z" finished-at="2015-08-13T01:28:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_ord -->
+        <test-method status="PASS" signature="Validate_pln()[pri:0, instance:weather.NewTest@6f79caec]" name="Validate_pln" duration-ms="125" started-at="2015-08-13T01:28:54Z" finished-at="2015-08-13T01:28:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_pln -->
+        <test-method status="PASS" signature="Validate_Zip()[pri:0, instance:weather.NewTest@6f79caec]" name="Validate_Zip" duration-ms="187" started-at="2015-08-13T01:28:54Z" finished-at="2015-08-13T01:28:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_Zip -->
+        <test-method status="PASS" signature="Validate_DMA()[pri:0, instance:weather.NewTest@6f79caec]" name="Validate_DMA" duration-ms="63" started-at="2015-08-13T01:28:55Z" finished-at="2015-08-13T01:28:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_DMA -->
+        <test-method status="PASS" signature="Validate_rmid()[pri:0, instance:weather.NewTest@6f79caec]" name="Validate_rmid" duration-ms="94" started-at="2015-08-13T01:28:55Z" finished-at="2015-08-13T01:28:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_rmid -->
+        <test-method status="PASS" signature="wfx_data()[pri:0, instance:weather.NewTest@6f79caec]" name="wfx_data" duration-ms="34268" started-at="2015-08-13T01:28:55Z" finished-at="2015-08-13T01:29:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wfx_data -->
+        <test-method status="PASS" signature="Lotamecustdata()[pri:0, instance:weather.NewTest@6f79caec]" name="Lotamecustdata" duration-ms="33322" started-at="2015-08-13T01:29:29Z" finished-at="2015-08-13T01:30:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Lotamecustdata -->
+        <test-method status="PASS" signature="LotameVerify()[pri:0, instance:weather.NewTest@6f79caec]" name="LotameVerify" duration-ms="2014" started-at="2015-08-13T01:30:02Z" finished-at="2015-08-13T01:30:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LotameVerify -->
+        <test-method status="PASS" signature="wfxverification()[pri:0, instance:weather.NewTest@6f79caec]" name="wfxverification" duration-ms="78" started-at="2015-08-13T01:30:04Z" finished-at="2015-08-13T01:30:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wfxverification -->
+        <test-method status="PASS" signature="Lotameverification()[pri:0, instance:weather.NewTest@6f79caec]" name="Lotameverification" duration-ms="68" started-at="2015-08-13T01:30:04Z" finished-at="2015-08-13T01:30:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Lotameverification -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:weather.NewTest@6f79caec]" name="afterTest" is-config="true" duration-ms="0" started-at="2015-08-13T01:30:04Z" finished-at="2015-08-13T01:30:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- weather.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
